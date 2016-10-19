@@ -1,1 +1,0 @@
-# loopback-getting-started
